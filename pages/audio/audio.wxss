@@ -1,11 +1,27 @@
 .page{
   display: flex;
   flex-direction: column;
-}
-.bannerIndex{
-  display: flex;
+  height: 100%;
   align-items: center;
   justify-content: center;
+}
+.box{
+  position: relative;
+  width: 696rpx;
+  height: 548rpx;
+  display: flex;
+  justify-content: center;
+}
+.audio{
+  position: absolute;
+  top: 0;
+  left: 0;
+  width: 696rpx;
+  height: 548rpx;
+}
+.time{
+  margin-top: 78rpx;
+  font-size: 32rpx;
 }
 .banner{
   margin: 0 auto;

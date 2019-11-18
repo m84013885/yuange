@@ -1,0 +1,24 @@
+<view class="page">
+  <view class="titleText">拖動你想呈現的多媒體類型,放入織物中。</view>
+  <view class="circles">
+    <view class="circle_little_box">
+      <image class="circle_little" src="../images/select/circle_little.png"></image>
+      <image class="circle_little_image" src="../images/select/img.png"></image>
+      <view class="circle_little_text">图像</view>
+    </view>
+    <view class="circle_little_box">
+      <image class="circle_little" src="../images/select/circle_little.png"></image>
+      <image class="circle_little_image" src="../images/select/audio.png"></image>
+      <view class="circle_little_text">聲音</view>
+    </view>
+    <view class="circle_little_box">
+      <image class="circle_little" src="../images/select/circle_little.png"></image>
+      <image class="circle_little_image" src="../images/select/video.png"></image>
+      <view class="circle_little_text">影像</view>
+    </view>
+  </view>
+  <view class="circle_box_big">
+    <image class="circle_big" src="../images/select/circle_big.png"></image>
+    <image class="circle_bag" src="../images/select/bag.png"></image>
+  </view>
+</view>

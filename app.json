@@ -1,5 +1,7 @@
 {
   "pages": [
+    "pages/audio/audio",
+    "pages/select/select",
     "pages/index/index",
     "pages/logs/logs"
   ],

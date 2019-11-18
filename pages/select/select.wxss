@@ -1,0 +1,57 @@
+.page{
+  display: flex;
+  flex-direction: column;
+}
+.titleText{
+  margin: 0 170rpx;
+  margin-top: 50rpx;
+  font-size: 32rpx;
+  text-align: center;
+}
+.circles{
+  margin: 0 66rpx;
+  margin-top: 66rpx;
+  display: flex;
+  justify-content: space-between;
+}
+.circle_little_box{
+  position: relative;
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+.circle_little{
+  width: 136rpx;
+  height: 136rpx;
+}
+.circle_little_image{
+  position: absolute;
+  top: 38rpx;
+  left: 50%;
+  margin-left: -43rpx;
+  width: 86rpx;
+  height: 62rpx;
+}
+.circle_little_text{
+  margin-top: 12rpx;
+}
+.circle_box_big{
+  position: relative;
+  margin-top: 68rpx;
+  display: flex;
+  justify-content: center;
+}
+.circle_bag{
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  width: 283.5rpx;
+  height: 212.8rpx;
+  margin-left: -141.75rpx; 
+  margin-top: -106.4rpx;
+}
+.circle_big{
+  width: 458rpx;
+  height: 458rpx;
+  margin: 0 auto;
+}

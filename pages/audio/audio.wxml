@@ -1,0 +1,6 @@
+<view class="page">
+  <view class="box">
+    <view class="time">00 : 00</view>
+    <image class="audio" src="../images/audio/audio.png"></image>
+  </view>
+</view>
